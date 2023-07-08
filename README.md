@@ -1,6 +1,7 @@
 
 "toppar": 
 Contains force field parameter files for running the simulation.
+The topology and parameters for GMP and AMP can be found in the toppar_all36_na_nad_ppi.str file. 
 
 "STINGactive" and "STINGinactive": 
 Includes the NAMD input files, as well as the starting and final structures of STING in the active and inactive states.
